@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="flinkdsl" />
+        <module name="producer_demo_lite" />
+        <module name="producer_demo" />
+        <module name="lib_lite" />
+        <module name="consumer_demo" />
+        <module name="consumer_demo_lite" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
